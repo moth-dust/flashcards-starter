@@ -34,7 +34,7 @@ To answer the question use your up and down arrow keys to navigate the multiple 
 ---
 
 ## Note on Test Files
-UPDATE: The tests now function with the current version, but for grading purposes the message below will be temporarily left in for grading purposes before being removed.
+UPDATE: The tests now function with the current version, but for grading purposes, the message below will be temporarily left in before being removed.
 
 The test files are depricated and will not work in the current version of the main branch as of writing this. They did at one point pass and work as expected, and these can be observed functioning by pulling from the branch "feature/deck-and-round". The tests were originally written with the idea objects would be cloned and the clones returned when finished, though this caused problems with the action based approach of interacting with objects in the pre-existing utils.js file; it was decided this approach should take priority.
 
@@ -53,5 +53,5 @@ The goal of this project was to to start entering data handling and back end int
 ## Challenges
 The biggest challenge with this project was understanding the process and output of code I understood well enough to understand its outputs, but did not understand every detail of its function. I also really only understood this after making the first version of the functions and tests I wrote. This is because once connected to the pre-made file I began having to resolve a sequence of errors that eventually led the program to a functioning state, and it was only because of these errors that I .
 
-## Wins.
+## Wins
 Conversely, resolving these errors took relatively little time and it made me feel as though I'm really starting to get a handle on common js errors and how to fix them even when there are gaps in knowledge of how the code I did not write is working. Additionally even though it ended up not being useful, I was proud of the work I did understanding calculation based functions when manipulating objects in js.
